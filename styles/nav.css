@@ -1,0 +1,24 @@
+nav ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+li {
+    display: flex;
+    list-style: none;
+}
+nav ul li:last-child img {
+    width: 40px;
+    height: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+a:hover{
+    color: var(--brand-color);
+    text-decoration: underline;
+}
