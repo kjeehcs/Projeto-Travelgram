@@ -41,4 +41,4 @@ Travelgram é um projeto web focado em uma página pessoal de perfil para compar
 
 Aqui está uma prévia da aparência do projeto:
 
-![Travelgram]()
+![Travelgram](https://github.com/kjeehcs/Projeto-Travelgram/blob/main/assets/images/Projeto-Travelgram.PNG)
