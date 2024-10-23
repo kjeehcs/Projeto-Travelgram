@@ -27,12 +27,12 @@ Travelgram é um projeto web focado em uma página pessoal de perfil para compar
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/travelgram.git
+   git clone https://github.com/kjeehcs/Projeto-Travelgram.git
    ```
    
 2. Navegue até o diretório do projeto:
    ```bash
-   cd travelgram
+   cd Projeto-Travelgram
    ```
 
 3. Abra o arquivo `index.html` no navegador.
